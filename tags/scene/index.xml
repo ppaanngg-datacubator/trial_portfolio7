@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Jane. Suphamon</title>
+    <link>https://ppaanngg-datacubator.github.io/trial_portfolio7/tags/scene/</link>
+    <description>Recent content in scene on Jane. Suphamon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://ppaanngg-datacubator.github.io/trial_portfolio7/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Trend forecasting project for AOT stock prediction</title>
+      <link>https://ppaanngg-datacubator.github.io/trial_portfolio7/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://ppaanngg-datacubator.github.io/trial_portfolio7/post/chapter-1/</guid>
+      <description>The aim of this project is to demonstrate the used of machine learning in stock prediction. Thai stock market was used to predict trends in comparison of different method. Link to my Github repo</description>
+    </item>
+    
+  </channel>
+</rss>
